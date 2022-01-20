@@ -1,0 +1,12 @@
+API
+Application Program interface
+
+consist in a structure request and an structure response
+ex: kitchen service, client on the table is waiting, API could be a waiter
+
+Rest
+-Respresentational State Transfer
+-Architecture style for designing networked applications
+-relies on a stateless, client-server protocol, almost always HTTP
+-Treats server objects as resources that can be created or destroyed (endpoints for creating CRUD)
+-Can be used by virtually any programming language
