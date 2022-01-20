@@ -10,3 +10,11 @@ Rest
 -relies on a stateless, client-server protocol, almost always HTTP
 -Treats server objects as resources that can be created or destroyed (endpoints for creating CRUD)
 -Can be used by virtually any programming language
+
+- GET : retrieve data from a specified resource
+- POST : submit data to be processed to a specified resource
+- PUT : Update a specified resource
+- DELETE : delete a specified resource
+
+Authentication
+Some API's require authentication to use their service. this could be free or paid
